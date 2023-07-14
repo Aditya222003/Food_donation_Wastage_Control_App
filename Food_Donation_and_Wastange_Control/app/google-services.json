@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1064704725164",
+    "project_id": "bubbly-vine-351019",
+    "storage_bucket": "bubbly-vine-351019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064704725164:android:07d0a4f460a38fccf18f09",
+        "android_client_info": {
+          "package_name": "com.example.aahaarapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064704725164-pk7heimi2nps16ibh7t1via06uok02q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Ch23ydLzVoicBGAhwfrGutALqccvCNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064704725164-pk7heimi2nps16ibh7t1via06uok02q4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
